@@ -7,11 +7,11 @@ DB_CONFIG = {
     'port': '5432'
 }
 
-# Bank app configurations - we'll verify these package names
+# CORRECT BANK APP IDs (from your research!)
 BANK_APPS = {
-    'cbe': 'com.cbe.mobilebanking',
-    'boa': 'com.bankofabyssinia.mobilebanking', 
-    'dashen': 'com.dashenbank.scmobile'
+    'cbe': 'com.combanketh.mobilebanking',      # Commercial Bank of Ethiopia
+    'boa': 'com.boa.boaMobileBanking',          # Bank of Abyssinia
+    'dashen': 'com.dashen.dashensuperapp'       # Dashen Bank
 }
 
   

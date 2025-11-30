@@ -7,7 +7,7 @@ DB_CONFIG = {
     'port': '5432'
 }
 
-# App IDs for Ethiopian Banks (we'll verify these later)
+# Bank app configurations - we'll verify these package names
 BANK_APPS = {
     'cbe': 'com.cbe.mobilebanking',
     'boa': 'com.bankofabyssinia.mobilebanking', 
@@ -15,7 +15,7 @@ BANK_APPS = {
 }
 
   
-  
+
 
 # Analysis Settings
 SENTIMENT_THRESHOLDS = {
